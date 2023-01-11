@@ -1,3 +1,6 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=RomanFastApi&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=RomanFastApi)
+
+
 # Comandos
 ## Instalar dependencias
 `pip install --no-cache-dir --upgrade -r requirements.txt`
